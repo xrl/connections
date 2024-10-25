@@ -1,0 +1,10 @@
+[package]
+name = "connections"
+description = "Like LinkedIn, but for lonely functions"
+license = "MIT"
+homepage = "https://github.com/xrl/connections"
+repository = "https://github.com/xrl/connections"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
